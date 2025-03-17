@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Isabela Carrillo Azain</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de la India</h3>
+<h3 align="center">Hello, I am Isabela Carrillo Azain, I am 18 years old, I come from Manizales and currently live in Floridablanca. I belong to the group U3 (0225) Bucaramanga free zone. I have basic knowledge about programming and my expectations is to learn every day more about new programming topics.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabela-ca&label=Profile%20views&color=0e75b6&style=flat" alt="isabela-ca" /> </p>
 
