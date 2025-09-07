@@ -8,9 +8,8 @@
 
 
 
-" ... src="https://github-readme-stats.vercel.app/api/top-langs?username=isabela-ca&show_icons=true&locale=es&layout=compact" alt="isabela-ca" /></p>
+![Isabela-CA's Stats](https://github-readme-stats.vercel.app/api?username=Isabela-CA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=isabela-ca&show_icons=true&locale=es" alt="isabela-ca" /></p>
+![Isabela-CA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isabela-CA&theme=vue-dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabela-ca&" alt="isabela-ca" /></p>
-
+![Isabela-CA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-CA&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
