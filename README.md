@@ -11,7 +11,11 @@ My training and hands-on experience in technologies such as Java, JavaScript, HT
 
 <h2> Habilities </h2>
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/60179334-53b0-49c8-872a-d5eb509226b0" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e99cd3ab-a6a0-4f7b-aa5a-5735440a8bdc" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/34987038-763d-4065-a377-3c87958cf285" />
+
+
+
+
 
 ![Isabela-CA's Stats](https://github-readme-stats.vercel.app/api?username=Isabela-CA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
