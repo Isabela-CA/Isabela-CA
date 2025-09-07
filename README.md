@@ -14,9 +14,11 @@ My training and hands-on experience in technologies such as Java, JavaScript, HT
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e99cd3ab-a6a0-4f7b-aa5a-5735440a8bdc" /> &emsp; 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/34987038-763d-4065-a377-3c87958cf285" /> &emsp;
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/14977d39-f640-462e-9479-23ba6ecd0040" /> &emsp;
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f2033a4a-fc4f-4374-94a8-4f7e5deaf8f1" /> &emsp;
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80322016-9a15-448b-bd31-e9b75910bac6" /> &emsp;
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/123e89c5-a3f9-4ea1-a605-f3f6c92a9e57" /> &emsp;
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e5073149-c418-45fe-99e3-1616e1141126" /> &emsp;
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dc42e192-5672-49f1-94ec-1eeb42e6b9a8" /> &emsp;
+
 <br>
 <hr>
 
