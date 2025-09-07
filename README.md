@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://fb.com/carrilloazain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carrilloazain" height="30" width="40" /></a>
-<img align ="left" alt="
-isabelacarrilloazain
+
 
 " ... src="https://github-readme-stats.vercel.app/api/top-langs?username=isabela-ca&show_icons=true&locale=es&layout=compact" alt="isabela-ca" /></p>
 
