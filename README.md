@@ -9,8 +9,9 @@ My training and hands-on experience in technologies such as Java, JavaScript, HT
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h2> habilities </h2>
+<h2> Habilities </h2>
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/60179334-53b0-49c8-872a-d5eb509226b0" />
 
 ![Isabela-CA's Stats](https://github-readme-stats.vercel.app/api?username=Isabela-CA&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
