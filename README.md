@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Isabela Carrillo Azain <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a458d6c5-c35d-4453-b2dd-4f9b38bcc304" />
+<h1 align="center">Hi , I'm Isabela Carrillo Azain <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/a458d6c5-c35d-4453-b2dd-4f9b38bcc304" />
 </h1>
 <h3 align="center"> I am a Junior Full-Stack Developer with a focus on backend, combining logical thinking with creativity to transform ideas into effective digital solutions. I am constantly driven to grow, learn and overcome challenges, taking each project as an opportunity to bring value and strengthen my skills.
 
